@@ -1,8 +1,8 @@
 ---
 
-title: OWASP Global Board EU Entity
+title: OWASP Global Board AU Entity
 layout: col-sidebar
-tags: eu board
+tags: au board
 
 ---
 
